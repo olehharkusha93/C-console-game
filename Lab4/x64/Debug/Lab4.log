@@ -1,0 +1,2 @@
+﻿Lab4.obj : error LNK2019: unresolved external symbol __imp_PlaySoundW referenced in function main
+C:\Users\Oleh\Documents\Visual Studio 2015\Projects\Lab4\x64\Debug\Lab4.exe : fatal error LNK1120: 1 unresolved externals
